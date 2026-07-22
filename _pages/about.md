@@ -29,7 +29,7 @@ redirect_from:
   ============================================================================
 -->
 
-Hello — I'm **[Your Name]**, a student in the Bachelor of Applied Biotechnology
+Hello — I'm **[Vinaya Kalidindi]**, a student in the Bachelor of Applied Biotechnology
 (Honours) program at Conestoga College.
 
 [Write one or two sentences about your professional interests or the direction
